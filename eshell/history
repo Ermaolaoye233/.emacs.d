@@ -1,0 +1,48 @@
+ls
+ls -al
+vim
+nvim
+brew install emacs-mac
+brew tap railwaycat-emacsmacport
+brew tap railwaycat/emacsmacport
+brew install emacs-mac
+osacript -h
+osascript -h
+:q
+exit
+ls
+ranger
+ranger
+ls
+ranger
+https://github.com/ranger/ranger/issuesex
+exit
+ls
+ranger
+ranger
+ranger
+ranger
+ranger
+setq
+setq doom-themes-treemacs-theme "doom-colors"
+doom-themes-treemacs-config
+setq doom-themes-treemacs-theme "doom-colors"
+doom-themes-treemacs-config
+doom-themes-treemacs-enable-variable-pitch nil
+setq doom-themes-treemacs-enable-variable-pitch nil
+doom-themes-treemacs-config
+(set-face-attribute hl-line-face nil		    :underline t		    :background nil		    :foreground nil		    :inherit nil		    )
+doom-themes-treemacs-config
+(dolist (mode '(org-mode-hook                term-mode-hook                shell-mode-hook                eshell-mode-hook		neotree-mode-hook))  (add-hook mode (lambda () (display-line-numbers-mode 0))))
+(dolist (mode '(org-mode-hook                term-mode-hook                shell-mode-hook                eshell-mode-hook		neotree-mode-hook))  (add-hook mode (lambda () (display-line-numbers-mode 0))))
+display-line-numbers-mode
+display-line-numbers-mode
+display-line-numbers-mode 0
+neotree-mode-hook display-line-numbers-mode 0
+ranger
+nvim
+exit
+ls
+ranger
+nvim
+exit
